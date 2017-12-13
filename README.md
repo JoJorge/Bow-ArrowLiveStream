@@ -1,4 +1,4 @@
 # Bow & Arrow Live Stream Code
-The code developed during our live stream called Building a Robin Hood VR Game. 
+The code is copied and revised from https://github.com/vmohan7/Bow-ArrowLiveStream for SketchVR Editor VR task. 
 
-Here is a link to the video where we built it up. https://www.youtube.com/watch?v=Dh7Wwqs-s2c
+The link to the video where they built it up. https://www.youtube.com/watch?v=Dh7Wwqs-s2c
